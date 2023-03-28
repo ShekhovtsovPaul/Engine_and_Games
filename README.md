@@ -22,3 +22,11 @@
 # INSTRUCTION TO PLAY GAME:
 # Player MOVE: left - A, right - D, up - S, down - W
 # Player SHOOT: left mouse button
+
+<img width="778" alt="Screen Shot 2023-03-28 at 6 27 09 PM" src="https://user-images.githubusercontent.com/48644066/228306899-e9d516c4-3dad-4491-b029-ee838fc458c9.png">
+
+<img width="778" alt="Screen Shot 2023-03-28 at 6 26 25 PM" src="https://user-images.githubusercontent.com/48644066/228306918-496b24ef-aa14-4989-af27-12e0a4bb040e.png">
+
+<img width="778" alt="Screen Shot 2023-03-28 at 6 25 11 PM" src="https://user-images.githubusercontent.com/48644066/228306927-697a0a15-ec1b-4079-a757-25dbd83170e4.png">
+
+TO BE CONTINUE ...
